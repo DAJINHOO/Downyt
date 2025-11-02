@@ -1,0 +1,19 @@
+#env
+downty/
+
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Arquivos temporários e de backup
+*.bak
+*.swp
+
+# Configurações do VS Code
+.vscode/

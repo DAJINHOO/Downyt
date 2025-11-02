@@ -1,0 +1,12 @@
+/meu_projeto
+├── downyt/            # Ambiente virtual do projeto
+├── static/          # Arquivos estáticos (CSS, JS, imagens)
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+├── templates/       # Arquivos HTML do site
+│   ├── index.html
+│   └── sobre.html
+├── app.py           # O arquivo principal da aplicação
+└── requirements.txt # Lista das dependências do projeto

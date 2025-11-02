@@ -1,3 +1,9 @@
+Projeto de um site para baixar audios e videos do yotube pela url, feito inteiramente em python flask e pytubefix, front feito em html e css
+
+esquema do projeto
+
+
+
 /meu_projeto
 ├── downyt/            # Ambiente virtual do projeto
 ├── static/          # Arquivos estáticos (CSS, JS, imagens)
